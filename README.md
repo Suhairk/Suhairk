@@ -39,6 +39,3 @@ Software Developer
 <a href="http://www.github.com/Suhairk"><img src="https://github-readme-stats.vercel.app/api?username=Suhairk&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=84cc16&bg_color=0f172a&hide_border=true&show_icons=true" alt="Suhairk's GitHub stats" /></a>
 
 <a href="http://www.github.com/Suhairk"><img src="https://activity-graph.herokuapp.com/graph?username=Suhairk&bg_color=0f172a&color=ffffff&line=84cc16&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/Suhairk" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhairk&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=84cc16&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
