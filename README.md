@@ -6,7 +6,7 @@ Software Developer
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [MyPortfolio](http://imsuhair.pythonanywhere.com)
-* ✉️  You can contact me at [suhairk,dev@gmail.com](mailto:suhairk,dev@gmail.com)
+* ✉️  You can contact me at [suhairk.dev@gmail.com](mailto:suhairk,dev@gmail.com)
 * 🧠  I'm learning React
 
 ### Skills
